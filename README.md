@@ -21,3 +21,6 @@ force
 
 f2 1 2 3
 add me
+
+5
+6
